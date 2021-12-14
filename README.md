@@ -6,4 +6,4 @@ For the coding part:
 
 Two functions were created for both the decoders, to return the decimal value based on the 4-bit binary inputs. The function was called inside the loop function and then some mathematical calculation was done to find the correct first and last digits, which were then displayed on the 7- Segment display.
 
-Just testing this line of code for git bash.
+
